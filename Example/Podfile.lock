@@ -1,0 +1,16 @@
+PODS:
+  - iosDynamicTextfield (0.1.0)
+
+DEPENDENCIES:
+  - iosDynamicTextfield (from `../`)
+
+EXTERNAL SOURCES:
+  iosDynamicTextfield:
+    :path: ../
+
+SPEC CHECKSUMS:
+  iosDynamicTextfield: 6096b38e2b9260b0fc25444838330bf2b73b59fc
+
+PODFILE CHECKSUM: 0b1f27c450f2471c878acffd0d7811382055048e
+
+COCOAPODS: 1.3.0.beta.3

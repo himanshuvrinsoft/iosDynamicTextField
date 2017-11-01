@@ -1,0 +1,22 @@
+{
+  "name": "iosDynamicTextfield",
+  "version": "0.1.0",
+  "summary": "A short description of iosDynamicTextfield.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/himanshuvrinsoft/iosDynamicTextfield",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "himanshuvrinsoft": "himanshu.vrinsoft@gmail.coom"
+  },
+  "source": {
+    "git": "https://github.com/himanshuvrinsoft/iosDynamicTextfield.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iosDynamicTextfield/Classes/**/*"
+}

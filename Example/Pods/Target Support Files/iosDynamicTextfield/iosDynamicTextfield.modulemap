@@ -1,0 +1,6 @@
+framework module iosDynamicTextfield {
+  umbrella header "iosDynamicTextfield-umbrella.h"
+
+  export *
+  module * { export * }
+}
