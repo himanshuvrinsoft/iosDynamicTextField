@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iosDynamicTextfield_Example' do
+  pod 'iosDynamicTextfield', :path => '../'
+
+  target 'iosDynamicTextfield_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
